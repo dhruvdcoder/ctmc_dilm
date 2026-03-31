@@ -1,0 +1,35 @@
+__pycache__
+.venv*
+*.pyc
+**.DS_Store
+**.coverage
+**.hypothesis
+coverage.xml
+**.idea
+docstring-coverage.txt
+.mypy_cache/
+data/**
+checkpoints/**
+logs/**
+logs_eval/**
+debug_logs/**
+**.egg-info
+.vscode/**
+tokens.json
+temp
+temp2
+wandb
+# ignore all notebooks
+.cursorignore
+.specstory
+
+
+
+# don't push .env
+.env
+*.venv*
+data/**
+.cursorindexingignore
+hf_home
+hf_datasets_cache
+*.code-workspace
