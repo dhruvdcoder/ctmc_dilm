@@ -88,5 +88,14 @@ xlm job_name=owt_idlm job_type=train experiment=owt_idlm per_device_batch_size=3
 The code uses [xlm-core](https://github.com/dhruvdcoder/xlm-core) as the rapid experiment framework.
 The code for data pipeline for the graph traversal experiments is from [ILM](https://github.com/dhruvdcoder/ILM) 
 
-# TODO (add citation)
-
+# Cite
+```
+@inproceedings{
+patel2026a,
+title={A Continuous Time Markov Chain Framework for Insertion Language Models},
+author={Dhruvesh Patel and Benjamin Rozonoyer and Soumitra Das and Tahira Naseem and Tim G. J. Rudner and Andrew McCallum},
+booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
+year={2026},
+url={https://openreview.net/forum?id=nCyV21FmUI}
+}
+```
